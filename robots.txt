@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duperclaylopezbvwc-create.github.io/hero11-game-guide/sitemap.xml
